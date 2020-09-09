@@ -1,0 +1,2884 @@
+[
+	{
+		"id": 388871250,
+		"buttons": [
+			"👤",
+			"🆘",
+			"🛡️",
+			"👛",
+			"🏆🌿",
+			"🏆👤",
+			"🏆🛡️"
+		],
+		"uid": 0,
+		"transactions": [
+			{
+				"id": 0,
+				"title": "Покупка «KustiFarm Diamond»",
+				"desc": "",
+				"targetType": "shop",
+				"targetId": 0,
+				"charge": "-20.5Квад.🌳"
+			},
+			{
+				"id": 1,
+				"title": "Выигрыш",
+				"desc": "👍 вы угадали! Приз 30.799999999999997🌳",
+				"targetType": "cup",
+				"targetId": 0,
+				"charge": "+30.799999999999997🌳"
+			},
+			{
+				"id": 2,
+				"title": "Перевод в «Пиздожмых»",
+				"desc": "",
+				"targetType": "clan",
+				"targetId": 0,
+				"charge": "-579🍞"
+			},
+			{
+				"id": 3,
+				"title": "Перевод «[id338991481|чикибамбоникафе]»",
+				"desc": "",
+				"targetType": "transfer",
+				"targetId": 338991481,
+				"charge": "-119🍞"
+			},
+			{
+				"id": 4,
+				"title": "Перевод «[id417370902|Jotaro Johnathan]»",
+				"desc": "",
+				"targetType": "transfer",
+				"targetId": 417370902,
+				"charge": "-234🍞"
+			},
+			{
+				"id": 5,
+				"title": "Перевод «[id322844010|Ищу мужа]»",
+				"desc": "",
+				"targetType": "transfer",
+				"targetId": 322844010,
+				"charge": "-378Млрд.🌳"
+			},
+			{
+				"id": 6,
+				"title": "Перевод «[id518507980|Марк_518507980]»",
+				"desc": "",
+				"targetType": "transfer",
+				"targetId": 518507980,
+				"charge": "-371Млрд.🌳"
+			}
+		],
+		"soldsazen": 592670170,
+		"inClan": true,
+		"clanId": 1,
+		"balance": 667606709036804,
+		"bank": 0,
+		"btc": 0,
+		"warns": 0,
+		"admin": true,
+		"calls": 3584,
+		"farm_btc": 10125000,
+		"rating": 357063010,
+		"regDate": "13.12.1983",
+		"mention": true,
+		"ban": false,
+		"timers": {
+			"bonus": true
+		},
+		"breadtrans": 13450,
+		"tag": "demon slayer 2",
+		"notifications": true,
+		"exp": 1,
+		"level": 1,
+		"profilewatch": true,
+		"referal": null,
+		"transport": {
+			"car": 0,
+			"yacht": 0,
+			"airplane": 0,
+			"helicopter": 0
+		},
+		"realty": {
+			"home": 0,
+			"apartment": 0
+		},
+		"misc": {
+			"phone": 0,
+			"farm": 12
+		},
+		"marriage": {
+			"partner": 0,
+			"requests": []
+		},
+		"balanceview": true,
+		"topban": false,
+		"transban": false,
+		"repban": false
+	},
+	{
+		"buttons": [
+			"👤",
+			"🆘",
+			"🛡️",
+			"👛",
+			"🏆🌿",
+			"🏆👤",
+			"🏆🛡️"
+		],
+		"topban": false,
+		"transban": false,
+		"repban": false,
+		"id": 524218646,
+		"uid": 1,
+		"balance": 37559347962731300,
+		"bank": 0,
+		"btc": 286000,
+		"balanceview": false,
+		"warns": 0,
+		"admin": false,
+		"calls": 1386,
+		"farm_btc": 135000000,
+		"rating": 1146598994,
+		"regDate": "11.9.2019",
+		"mention": true,
+		"ban": false,
+		"timers": {
+			"bonus": true
+		},
+		"tag": "demon slayer",
+		"transactions": [],
+		"soldsazen": 5689453320,
+		"inClan": false,
+		"clanId": 1,
+		"breadtrans": 0,
+		"profilewatch": false,
+		"notifications": true,
+		"exp": 1,
+		"level": 1,
+		"referal": null,
+		"transport": {
+			"car": 0,
+			"yacht": 0,
+			"airplane": 0,
+			"helicopter": 0
+		},
+		"realty": {
+			"home": 0,
+			"apartment": 0
+		},
+		"misc": {
+			"phone": 0,
+			"farm": 16
+		},
+		"marriage": {
+			"partner": 0,
+			"requests": []
+		},
+		"usedcodes": [],
+		"platform": "vk",
+		"banreason": "хочу ебаться"
+	},
+	{
+		"buttons": [
+			"👤",
+			"🆘",
+			"🛡️",
+			"👛",
+			"🏆🌿",
+			"🏆👤",
+			"🏆🛡️"
+		],
+		"topban": false,
+		"transban": false,
+		"repban": false,
+		"id": 322844010,
+		"uid": 2,
+		"balance": 12500257928742080,
+		"bank": 0,
+		"btc": 98850000,
+		"warns": 0,
+		"admin": false,
+		"calls": 1152,
+		"farm_btc": 10050000,
+		"rating": 10196945,
+		"regDate": "11.9.2019",
+		"mention": true,
+		"ban": false,
+		"timers": {
+			"bonus": false
+		},
+		"tag": "Ищу мужа",
+		"transactions": [],
+		"soldsazen": 385251742,
+		"inClan": true,
+		"clanId": 1,
+		"breadtrans": 0,
+		"profilewatch": true,
+		"balanceview": false,
+		"notifications": true,
+		"exp": 1,
+		"level": 1,
+		"referal": null,
+		"transport": {
+			"car": 0,
+			"yacht": 0,
+			"airplane": 0,
+			"helicopter": 0
+		},
+		"realty": {
+			"home": 0,
+			"apartment": 0
+		},
+		"misc": {
+			"phone": 0,
+			"farm": 12
+		},
+		"marriage": {
+			"partner": 0,
+			"requests": []
+		},
+		"usedcodes": [],
+		"platform": "vk",
+		"banreason": "хуй"
+	},
+	{
+		"buttons": [
+			"👤",
+			"🆘",
+			"🛡️",
+			"👛",
+			"🏆🌿",
+			"🏆👤",
+			"🏆🛡️"
+		],
+		"topban": false,
+		"transban": false,
+		"repban": false,
+		"id": 400853719,
+		"uid": 3,
+		"balance": 248580790125489100,
+		"bank": 0,
+		"btc": 0,
+		"warns": 0,
+		"admin": false,
+		"calls": 767,
+		"farm_btc": 79000000,
+		"rating": 708586,
+		"regDate": "11.9.2019",
+		"mention": true,
+		"ban": false,
+		"timers": {
+			"bonus": true
+		},
+		"tag": "🏳‍🌈Николай Басков🏳‍🌈",
+		"soldsazen": 1215665962,
+		"breadtrans": 0,
+		"inClan": true,
+		"clanId": 1,
+		"profilewatch": true,
+		"balanceview": false,
+		"notifications": true,
+		"exp": 1,
+		"level": 1,
+		"referal": null,
+		"transport": {
+			"car": 0,
+			"yacht": 0,
+			"airplane": 0,
+			"helicopter": 0
+		},
+		"realty": {
+			"home": 0,
+			"apartment": 0
+		},
+		"misc": {
+			"phone": 0,
+			"farm": 13
+		},
+		"marriage": {
+			"partner": 0,
+			"requests": []
+		},
+		"platform": "vk"
+	},
+	{
+		"buttons": [
+			"👤",
+			"🆘",
+			"🛡️",
+			"👛",
+			"🏆🌿",
+			"🏆👤",
+			"🏆🛡️"
+		],
+		"topban": false,
+		"transban": false,
+		"repban": false,
+		"id": 338991481,
+		"uid": 4,
+		"balance": 306802162714468,
+		"bank": 0,
+		"btc": 16835000,
+		"warns": 0,
+		"admin": false,
+		"calls": 1581,
+		"farm_btc": 1005000,
+		"rating": 26560,
+		"regDate": "11.9.2019",
+		"mention": true,
+		"ban": false,
+		"timers": {
+			"bonus": false
+		},
+		"tag": "чикибамбоникафе",
+		"transactions": [
+			{
+				"id": 0,
+				"title": "Продажа «Конопля» (200000г)",
+				"desc": "",
+				"targetType": "shop",
+				"targetId": 0,
+				"charge": "+4Трлн.🌳"
+			},
+			{
+				"id": 1,
+				"title": "Продажа «Конопля» (200000г)",
+				"desc": "",
+				"targetType": "shop",
+				"targetId": 0,
+				"charge": "+4Трлн.🌳"
+			},
+			{
+				"id": 2,
+				"title": "Продажа «Конопля» (800000г)",
+				"desc": "",
+				"targetType": "shop",
+				"targetId": 0,
+				"charge": "+16.2Трлн.🌳"
+			},
+			{
+				"id": 3,
+				"title": "Продажа «Конопля» (800000г)",
+				"desc": "",
+				"targetType": "shop",
+				"targetId": 0,
+				"charge": "+16.2Трлн.🌳"
+			},
+			{
+				"id": 4,
+				"title": "Продажа «Конопля» (800000г)",
+				"desc": "",
+				"targetType": "shop",
+				"targetId": 0,
+				"charge": "+16.2Трлн.🌳"
+			}
+		],
+		"soldsazen": 37028910,
+		"breadtrans": 0,
+		"inClan": true,
+		"clanId": "1",
+		"profilewatch": true,
+		"balanceview": true,
+		"notifications": true,
+		"exp": 1,
+		"level": 1,
+		"referal": null,
+		"transport": {
+			"car": 0,
+			"yacht": 0,
+			"airplane": 0,
+			"helicopter": 0
+		},
+		"realty": {
+			"home": 0,
+			"apartment": 0
+		},
+		"misc": {
+			"phone": 0,
+			"farm": 9
+		},
+		"marriage": {
+			"partner": 0,
+			"requests": [
+				0
+			]
+		},
+		"usedcodes": [],
+		"platform": "vk"
+	},
+	{
+		"buttons": [
+			"👤",
+			"🆘",
+			"🛡️",
+			"👛",
+			"🏆🌿",
+			"🏆👤",
+			"🏆🛡️"
+		],
+		"topban": false,
+		"transban": false,
+		"repban": false,
+		"id": 560589383,
+		"uid": 5,
+		"balance": 43236607232,
+		"bank": 0,
+		"btc": 0,
+		"warns": 0,
+		"admin": false,
+		"calls": 146,
+		"farm_btc": 1395510,
+		"rating": 441,
+		"regDate": "11.9.2019",
+		"mention": true,
+		"ban": false,
+		"timers": {
+			"bonus": false
+		},
+		"tag": "Саша",
+		"transactions": [],
+		"inClan": false,
+		"soldsazen": 0,
+		"clanId": null,
+		"breadtrans": 0,
+		"profilewatch": true,
+		"notifications": true,
+		"balanceview": false,
+		"exp": 1,
+		"level": 1,
+		"referal": null,
+		"transport": {
+			"car": 0,
+			"yacht": 0,
+			"airplane": 0,
+			"helicopter": 0
+		},
+		"realty": {
+			"home": 0,
+			"apartment": 0
+		},
+		"misc": {
+			"phone": 0,
+			"farm": 2
+		},
+		"marriage": {
+			"partner": 0,
+			"requests": []
+		},
+		"platform": "vk"
+	},
+	{
+		"buttons": [
+			"👤",
+			"🆘",
+			"🛡️",
+			"👛",
+			"🏆🌿",
+			"🏆👤",
+			"🏆🛡️"
+		],
+		"topban": false,
+		"transban": false,
+		"repban": false,
+		"id": 164130938,
+		"uid": 6,
+		"balance": 5000,
+		"bank": 0,
+		"btc": 0,
+		"warns": 0,
+		"admin": false,
+		"calls": 7,
+		"farm_btc": 0,
+		"rating": 0,
+		"regDate": "11.9.2019",
+		"mention": true,
+		"ban": false,
+		"timers": {
+			"bonus": false
+		},
+		"tag": "Маша",
+		"transactions": [],
+		"soldsazen": 0,
+		"breadtrans": 0,
+		"inClan": false,
+		"clanId": null,
+		"profilewatch": true,
+		"balanceview": true,
+		"notifications": true,
+		"exp": 1,
+		"level": 1,
+		"referal": null,
+		"transport": {
+			"car": 0,
+			"yacht": 0,
+			"airplane": 0,
+			"helicopter": 0
+		},
+		"realty": {
+			"home": 0,
+			"apartment": 0
+		},
+		"misc": {
+			"phone": 0,
+			"farm": 0
+		},
+		"marriage": {
+			"partner": 0,
+			"requests": []
+		},
+		"usedcodes": [],
+		"platform": "vk"
+	},
+	{
+		"buttons": [
+			"👤",
+			"🆘",
+			"🛡️",
+			"👛",
+			"🏆🌿",
+			"🏆👤",
+			"🏆🛡️"
+		],
+		"topban": false,
+		"transban": false,
+		"repban": false,
+		"id": 464580547,
+		"uid": 7,
+		"balance": 5000,
+		"bank": 0,
+		"btc": 0,
+		"warns": 0,
+		"admin": false,
+		"calls": 0,
+		"farm_btc": 0,
+		"rating": 1,
+		"regDate": "11.9.2019",
+		"mention": true,
+		"ban": false,
+		"timers": {
+			"bonus": false
+		},
+		"tag": "Hujulia",
+		"transactions": [],
+		"soldsazen": 0,
+		"breadtrans": 0,
+		"inClan": false,
+		"clanId": null,
+		"balanceview": false,
+		"profilewatch": true,
+		"notifications": true,
+		"exp": 1,
+		"level": 1,
+		"referal": null,
+		"transport": {
+			"car": 0,
+			"yacht": 0,
+			"airplane": 0,
+			"helicopter": 0
+		},
+		"realty": {
+			"home": 0,
+			"apartment": 0
+		},
+		"misc": {
+			"phone": 0,
+			"farm": 0
+		},
+		"marriage": {
+			"partner": 0,
+			"requests": []
+		},
+		"usedcodes": [],
+		"platform": "vk"
+	},
+	{
+		"buttons": [
+			"👤",
+			"🆘",
+			"🛡️",
+			"👛",
+			"🏆🌿",
+			"🏆👤",
+			"🏆🛡️"
+		],
+		"topban": false,
+		"transban": false,
+		"repban": false,
+		"id": 453556498,
+		"uid": 8,
+		"balance": 3471485995477194,
+		"bank": 0,
+		"btc": 0,
+		"warns": 0,
+		"admin": false,
+		"calls": 3670,
+		"farm_btc": 27360000,
+		"rating": 2543713,
+		"regDate": "11.9.2019",
+		"mention": true,
+		"ban": false,
+		"timers": {
+			"bonus": false
+		},
+		"tag": "Ержан Главный",
+		"transactions": [],
+		"soldsazen": 43934650,
+		"breadtrans": 0,
+		"inClan": true,
+		"clanId": 1,
+		"balanceview": true,
+		"profilewatch": false,
+		"notifications": true,
+		"exp": 1,
+		"level": 1,
+		"referal": null,
+		"transport": {
+			"car": 0,
+			"yacht": 0,
+			"airplane": 0,
+			"helicopter": 0
+		},
+		"realty": {
+			"home": 0,
+			"apartment": 0
+		},
+		"misc": {
+			"phone": 0,
+			"farm": 10
+		},
+		"marriage": {
+			"partner": 0,
+			"requests": []
+		},
+		"usedcodes": [],
+		"platform": "vk"
+	},
+	{
+		"buttons": [
+			"👤",
+			"🆘",
+			"🛡️",
+			"👛",
+			"🏆🌿",
+			"🏆👤",
+			"🏆🛡️"
+		],
+		"topban": false,
+		"transban": false,
+		"repban": false,
+		"id": 558150043,
+		"uid": 9,
+		"balance": 8382337648654656,
+		"bank": 0,
+		"btc": 3590000,
+		"warns": 0,
+		"admin": false,
+		"calls": 590,
+		"farm_btc": 3840000,
+		"rating": 1269111,
+		"regDate": "11.9.2019",
+		"mention": true,
+		"ban": false,
+		"timers": {
+			"bonus": true
+		},
+		"tag": "жмыхобамбони",
+		"transactions": [],
+		"soldsazen": 86090350,
+		"inClan": true,
+		"clanId": 1,
+		"breadtrans": 0,
+		"balanceview": false,
+		"profilewatch": true,
+		"notifications": true,
+		"exp": 1,
+		"level": 1,
+		"referal": null,
+		"transport": {
+			"car": 0,
+			"yacht": 0,
+			"airplane": 0,
+			"helicopter": 0
+		},
+		"realty": {
+			"home": 0,
+			"apartment": 0
+		},
+		"misc": {
+			"phone": 0,
+			"farm": 10
+		},
+		"marriage": {
+			"partner": 0,
+			"requests": []
+		},
+		"usedcodes": [],
+		"platform": "vk"
+	},
+	{
+		"buttons": [
+			"👤",
+			"🆘",
+			"🛡️",
+			"👛",
+			"🏆🌿",
+			"🏆👤",
+			"🏆🛡️"
+		],
+		"topban": false,
+		"transban": false,
+		"repban": false,
+		"id": 520667348,
+		"uid": 10,
+		"balance": 5000,
+		"balanceview": false,
+		"bank": 0,
+		"btc": 0,
+		"breadtrans": 0,
+		"warns": 0,
+		"inClan": false,
+		"clanId": 0,
+		"profilewatch": false,
+		"admin": false,
+		"calls": 0,
+		"farm_btc": 0,
+		"rating": 0,
+		"regDate": "14.9.2019",
+		"mention": true,
+		"ban": false,
+		"timers": {
+			"bonus": false
+		},
+		"tag": "Emilia",
+		"transactions": [],
+		"soldsazen": 0,
+		"notifications": true,
+		"exp": 1,
+		"level": 1,
+		"referal": null,
+		"transport": {
+			"car": 0,
+			"yacht": 0,
+			"airplane": 0,
+			"helicopter": 0
+		},
+		"realty": {
+			"home": 0,
+			"apartment": 0
+		},
+		"misc": {
+			"phone": 0,
+			"farm": 0
+		},
+		"marriage": {
+			"partner": 0,
+			"requests": []
+		},
+		"usedcodes": [],
+		"platform": "vk"
+	},
+	{
+		"buttons": [
+			"👤",
+			"🆘",
+			"🛡️",
+			"👛",
+			"🏆🌿",
+			"🏆👤",
+			"🏆🛡️"
+		],
+		"topban": false,
+		"transban": false,
+		"repban": false,
+		"id": 565994061,
+		"uid": 11,
+		"balance": 115017895160,
+		"balanceview": false,
+		"bank": 0,
+		"btc": 0,
+		"breadtrans": 0,
+		"warns": 0,
+		"inClan": true,
+		"clanId": "2",
+		"profilewatch": false,
+		"admin": false,
+		"calls": 146,
+		"farm_btc": 0,
+		"rating": 35008,
+		"regDate": "16.9.2019",
+		"mention": true,
+		"ban": false,
+		"timers": {
+			"bonus": false
+		},
+		"tag": "Конча Вани",
+		"transactions": [],
+		"soldsazen": 120,
+		"notifications": true,
+		"exp": 1,
+		"level": 1,
+		"referal": null,
+		"transport": {
+			"car": 0,
+			"yacht": 0,
+			"airplane": 0,
+			"helicopter": 0
+		},
+		"realty": {
+			"home": 0,
+			"apartment": 0
+		},
+		"misc": {
+			"phone": 0,
+			"farm": 0
+		},
+		"marriage": {
+			"partner": 0,
+			"requests": []
+		},
+		"platform": "vk"
+	},
+	{
+		"buttons": [
+			"👤",
+			"🆘",
+			"🛡️",
+			"👛",
+			"🏆🌿",
+			"🏆👤",
+			"🏆🛡️"
+		],
+		"topban": true,
+		"transban": false,
+		"repban": false,
+		"id": 42660844,
+		"uid": 12,
+		"balance": 3174440727551488,
+		"soldsazen": 8925950,
+		"language": "rus",
+		"balanceview": false,
+		"bank": 0,
+		"btc": 8925950,
+		"breadtrans": 0,
+		"warns": 2,
+		"inClan": true,
+		"clanId": 2,
+		"profilewatch": false,
+		"admin": false,
+		"calls": 1073,
+		"farm_btc": 8220400,
+		"rating": 9733592,
+		"regDate": "17.9.2019",
+		"mention": true,
+		"ban": false,
+		"timers": {
+			"bonus": false
+		},
+		"tag": "Педораска",
+		"transactions": [],
+		"notifications": true,
+		"exp": 1,
+		"level": 1,
+		"referal": null,
+		"misc": {
+			"farm": 6
+		},
+		"marriage": {
+			"partner": 0,
+			"requests": []
+		},
+		"platform": "vk",
+		"banreason": "спам"
+	},
+	{
+		"buttons": [
+			"👤",
+			"🆘",
+			"🛡️",
+			"👛",
+			"🏆🌿",
+			"🏆👤",
+			"🏆🛡️"
+		],
+		"topban": false,
+		"transban": false,
+		"repban": false,
+		"id": 468447776,
+		"uid": 13,
+		"balance": 5000,
+		"soldsazen": 0,
+		"language": "rus",
+		"balanceview": false,
+		"bank": 0,
+		"btc": 0,
+		"breadtrans": 0,
+		"warns": 0,
+		"inClan": false,
+		"clanId": 0,
+		"profilewatch": false,
+		"admin": false,
+		"calls": 0,
+		"farm_btc": 0,
+		"rating": 0,
+		"regDate": "18.10.2019",
+		"mention": true,
+		"ban": false,
+		"timers": {
+			"bonus": false
+		},
+		"tag": "Карина",
+		"transactions": [],
+		"notifications": true,
+		"exp": 1,
+		"level": 1,
+		"referal": null,
+		"misc": {
+			"farm": 0
+		},
+		"marriage": {
+			"partner": 0,
+			"requests": []
+		},
+		"platform": "vk"
+	},
+	{
+		"buttons": [
+			"👤",
+			"🆘",
+			"🛡️",
+			"👛",
+			"🏆🌿",
+			"🏆👤",
+			"🏆🛡️"
+		],
+		"topban": false,
+		"transban": false,
+		"repban": false,
+		"id": 272504695,
+		"uid": 14,
+		"balance": 899644835005,
+		"soldsazen": 778150,
+		"language": "rus",
+		"balanceview": false,
+		"bank": 0,
+		"btc": 777650,
+		"breadtrans": 0,
+		"warns": 0,
+		"inClan": false,
+		"clanId": 0,
+		"profilewatch": true,
+		"admin": false,
+		"calls": 319,
+		"farm_btc": 606800,
+		"rating": 20000,
+		"regDate": "5.11.2019",
+		"mention": true,
+		"ban": false,
+		"timers": {
+			"bonus": false
+		},
+		"tag": "Яна",
+		"transactions": [],
+		"notifications": true,
+		"exp": 1,
+		"level": 1,
+		"referal": null,
+		"misc": {
+			"farm": 2
+		},
+		"marriage": {
+			"partner": 15,
+			"requests": []
+		},
+		"platform": "vk"
+	},
+	{
+		"buttons": [
+			"👤",
+			"🆘",
+			"🛡️",
+			"👛",
+			"🏆🌿",
+			"🏆👤",
+			"🏆🛡️"
+		],
+		"topban": false,
+		"transban": false,
+		"repban": false,
+		"id": 320413949,
+		"uid": 15,
+		"balance": 294083251218,
+		"soldsazen": 4650,
+		"language": "rus",
+		"balanceview": false,
+		"bank": 0,
+		"btc": 4350,
+		"breadtrans": 0,
+		"warns": 0,
+		"inClan": true,
+		"clanId": 0,
+		"profilewatch": true,
+		"admin": false,
+		"calls": 168,
+		"farm_btc": 1380300,
+		"rating": 100205,
+		"regDate": "5.11.2019",
+		"mention": true,
+		"ban": false,
+		"timers": {
+			"bonus": false
+		},
+		"tag": "Вика",
+		"transactions": [],
+		"notifications": true,
+		"exp": 1,
+		"level": 1,
+		"referal": null,
+		"misc": {
+			"farm": 2
+		},
+		"marriage": {
+			"partner": 14,
+			"requests": []
+		},
+		"platform": "vk"
+	},
+	{
+		"buttons": [
+			"👤",
+			"🆘",
+			"🛡️",
+			"👛",
+			"🏆🌿",
+			"🏆👤",
+			"🏆🛡️"
+		],
+		"topban": false,
+		"transban": false,
+		"repban": false,
+		"id": 304094675,
+		"uid": 16,
+		"balance": 179822112862,
+		"soldsazen": 10,
+		"language": "rus",
+		"balanceview": false,
+		"bank": 0,
+		"btc": 10,
+		"breadtrans": 0,
+		"warns": 0,
+		"inClan": false,
+		"clanId": 0,
+		"profilewatch": false,
+		"admin": false,
+		"calls": 107,
+		"farm_btc": 691070,
+		"rating": 25000,
+		"regDate": "5.11.2019",
+		"mention": true,
+		"ban": false,
+		"timers": {
+			"bonus": false
+		},
+		"tag": "блан",
+		"transactions": [],
+		"notifications": true,
+		"exp": 1,
+		"level": 1,
+		"referal": null,
+		"misc": {
+			"farm": 1
+		},
+		"marriage": {
+			"partner": 0,
+			"requests": []
+		},
+		"platform": "vk"
+	},
+	{
+		"id": 542923769,
+		"uid": 17,
+		"balance": 28141884,
+		"soldsazen": 0,
+		"language": "rus",
+		"balanceview": false,
+		"bank": 0,
+		"btc": 0,
+		"buttons": [
+			"👤",
+			"🆘",
+			"🛡️",
+			"🏆🌿",
+			"🏆👤",
+			"🏆🛡️"
+		],
+		"topban": false,
+		"repban": false,
+		"transban": false,
+		"breadtrans": 0,
+		"warns": 0,
+		"inClan": false,
+		"clanId": 0,
+		"profilewatch": true,
+		"admin": false,
+		"calls": 76,
+		"farm_btc": 0,
+		"rating": 2000000,
+		"regDate": "19.11.2019",
+		"mention": true,
+		"ban": false,
+		"timers": {
+			"bonus": true
+		},
+		"tag": "Александр_542923769",
+		"transactions": [],
+		"notifications": true,
+		"exp": 1,
+		"level": 1,
+		"referal": null,
+		"misc": {
+			"farm": 0
+		},
+		"marriage": {
+			"partner": 0,
+			"requests": []
+		},
+		"platform": "vk"
+	},
+	{
+		"id": 483023532,
+		"uid": 18,
+		"balance": 5000,
+		"soldsazen": 0,
+		"language": "rus",
+		"balanceview": false,
+		"bank": 0,
+		"btc": 0,
+		"buttons": [
+			"👤",
+			"🆘",
+			"🛡️",
+			"🏆🌿",
+			"🏆👤",
+			"🏆🛡️"
+		],
+		"topban": false,
+		"repban": false,
+		"transban": false,
+		"breadtrans": 0,
+		"warns": 0,
+		"inClan": false,
+		"clanId": 0,
+		"profilewatch": true,
+		"admin": false,
+		"calls": 2,
+		"farm_btc": 0,
+		"rating": 1000000,
+		"regDate": "19.11.2019",
+		"mention": true,
+		"ban": false,
+		"timers": {
+			"bonus": true
+		},
+		"tag": "Даниил_483023532",
+		"transactions": [],
+		"notifications": true,
+		"exp": 1,
+		"level": 1,
+		"referal": null,
+		"misc": {
+			"farm": 0
+		},
+		"marriage": {
+			"partner": 0,
+			"requests": []
+		},
+		"platform": "vk"
+	},
+	{
+		"id": 525432466,
+		"uid": 19,
+		"balance": 5000,
+		"soldsazen": 0,
+		"language": "rus",
+		"balanceview": false,
+		"bank": 0,
+		"btc": 0,
+		"buttons": [
+			"👤",
+			"🆘",
+			"🛡️",
+			"🏆🌿",
+			"🏆👤",
+			"🏆🛡️"
+		],
+		"topban": false,
+		"repban": false,
+		"transban": false,
+		"breadtrans": 0,
+		"warns": 0,
+		"inClan": false,
+		"clanId": 0,
+		"profilewatch": true,
+		"admin": false,
+		"calls": 0,
+		"farm_btc": 0,
+		"rating": 0,
+		"regDate": "28.11.2019",
+		"mention": true,
+		"ban": false,
+		"timers": {
+			"bonus": true
+		},
+		"tag": "ARINA_525432466",
+		"transactions": [],
+		"notifications": true,
+		"exp": 1,
+		"level": 1,
+		"referal": null,
+		"misc": {
+			"farm": 0
+		},
+		"marriage": {
+			"partner": 0,
+			"requests": []
+		},
+		"platform": "vk"
+	},
+	{
+		"id": 567543861,
+		"uid": 20,
+		"balance": 5000,
+		"soldsazen": 0,
+		"language": "rus",
+		"balanceview": false,
+		"bank": 0,
+		"btc": 0,
+		"buttons": [
+			"👤",
+			"🆘",
+			"🛡️",
+			"🏆🌿",
+			"🏆👤",
+			"🏆🛡️"
+		],
+		"topban": false,
+		"repban": false,
+		"transban": false,
+		"breadtrans": 0,
+		"warns": 0,
+		"inClan": false,
+		"clanId": 0,
+		"profilewatch": true,
+		"admin": false,
+		"calls": 4,
+		"farm_btc": 0,
+		"rating": 0,
+		"regDate": "28.11.2019",
+		"mention": true,
+		"ban": false,
+		"timers": {
+			"bonus": true
+		},
+		"tag": "Хочу Дошик",
+		"transactions": [],
+		"notifications": true,
+		"exp": 1,
+		"level": 1,
+		"referal": null,
+		"misc": {
+			"farm": 0
+		},
+		"marriage": {
+			"partner": 0,
+			"requests": []
+		},
+		"platform": "vk"
+	},
+	{
+		"id": 339219898,
+		"uid": 21,
+		"balance": 5000,
+		"soldsazen": 0,
+		"language": "rus",
+		"balanceview": false,
+		"bank": 0,
+		"btc": 0,
+		"buttons": [
+			"👤",
+			"🆘",
+			"🛡️",
+			"🏆🌿",
+			"🏆👤",
+			"🏆🛡️"
+		],
+		"topban": false,
+		"repban": false,
+		"transban": false,
+		"breadtrans": 0,
+		"warns": 0,
+		"inClan": false,
+		"clanId": 0,
+		"profilewatch": true,
+		"admin": false,
+		"calls": 0,
+		"farm_btc": 0,
+		"rating": 29823,
+		"regDate": "28.11.2019",
+		"mention": true,
+		"ban": false,
+		"timers": {
+			"bonus": true
+		},
+		"tag": "Вика_339219898",
+		"transactions": [],
+		"notifications": true,
+		"exp": 1,
+		"level": 1,
+		"referal": null,
+		"misc": {
+			"farm": 0
+		},
+		"marriage": {
+			"partner": 0,
+			"requests": []
+		},
+		"platform": "vk"
+	},
+	{
+		"id": 488238649,
+		"uid": 22,
+		"balance": 5000,
+		"soldsazen": 0,
+		"language": "rus",
+		"balanceview": false,
+		"bank": 0,
+		"btc": 0,
+		"buttons": [
+			"👤",
+			"🆘",
+			"🛡️",
+			"🏆🌿",
+			"🏆👤",
+			"🏆🛡️"
+		],
+		"topban": false,
+		"repban": false,
+		"transban": false,
+		"breadtrans": 0,
+		"warns": 0,
+		"inClan": false,
+		"clanId": 0,
+		"profilewatch": true,
+		"admin": false,
+		"calls": 0,
+		"farm_btc": 0,
+		"rating": 0,
+		"regDate": "28.11.2019",
+		"mention": true,
+		"ban": false,
+		"timers": {
+			"bonus": true
+		},
+		"tag": "Ася_488238649",
+		"transactions": [],
+		"notifications": true,
+		"exp": 1,
+		"level": 1,
+		"referal": null,
+		"misc": {
+			"farm": 0
+		},
+		"marriage": {
+			"partner": 0,
+			"requests": []
+		},
+		"platform": "vk"
+	},
+	{
+		"id": 360717544,
+		"uid": 23,
+		"balance": 5000,
+		"soldsazen": 0,
+		"language": "rus",
+		"balanceview": false,
+		"bank": 0,
+		"btc": 0,
+		"buttons": [
+			"👤",
+			"🆘",
+			"🛡️",
+			"🏆🌿",
+			"🏆👤",
+			"🏆🛡️"
+		],
+		"topban": false,
+		"repban": false,
+		"transban": false,
+		"breadtrans": 0,
+		"warns": 0,
+		"inClan": false,
+		"clanId": 0,
+		"profilewatch": true,
+		"admin": false,
+		"calls": 0,
+		"farm_btc": 0,
+		"rating": 0,
+		"regDate": "28.11.2019",
+		"mention": true,
+		"ban": false,
+		"timers": {
+			"bonus": true
+		},
+		"tag": "Вадим_360717544",
+		"transactions": [],
+		"notifications": true,
+		"exp": 1,
+		"level": 1,
+		"referal": null,
+		"misc": {
+			"farm": 0
+		},
+		"marriage": {
+			"partner": 0,
+			"requests": []
+		},
+		"platform": "vk"
+	},
+	{
+		"id": 469894675,
+		"uid": 24,
+		"balance": 5000,
+		"soldsazen": 0,
+		"language": "rus",
+		"balanceview": false,
+		"bank": 0,
+		"btc": 0,
+		"buttons": [
+			"👤",
+			"🆘",
+			"🛡️",
+			"🏆🌿",
+			"🏆👤",
+			"🏆🛡️"
+		],
+		"topban": false,
+		"repban": false,
+		"transban": false,
+		"breadtrans": 0,
+		"warns": 0,
+		"inClan": false,
+		"clanId": 0,
+		"profilewatch": true,
+		"admin": false,
+		"calls": 2,
+		"farm_btc": 0,
+		"rating": 0,
+		"regDate": "28.11.2019",
+		"mention": true,
+		"ban": false,
+		"timers": {
+			"bonus": true
+		},
+		"tag": "Богдан_469894675",
+		"transactions": [],
+		"notifications": true,
+		"exp": 1,
+		"level": 1,
+		"referal": null,
+		"misc": {
+			"farm": 0
+		},
+		"marriage": {
+			"partner": 0,
+			"requests": []
+		},
+		"platform": "vk"
+	},
+	{
+		"id": 514287531,
+		"uid": 25,
+		"balance": 5000,
+		"soldsazen": 0,
+		"language": "rus",
+		"balanceview": false,
+		"bank": 0,
+		"btc": 0,
+		"buttons": [
+			"👤",
+			"🆘",
+			"🛡️",
+			"🏆🌿",
+			"🏆👤",
+			"🏆🛡️"
+		],
+		"topban": false,
+		"repban": false,
+		"transban": false,
+		"breadtrans": 0,
+		"warns": 0,
+		"inClan": false,
+		"clanId": 0,
+		"profilewatch": true,
+		"admin": false,
+		"calls": 0,
+		"farm_btc": 0,
+		"rating": 0,
+		"regDate": "28.11.2019",
+		"mention": true,
+		"ban": false,
+		"timers": {
+			"bonus": true
+		},
+		"tag": "Erika_514287531",
+		"transactions": [],
+		"notifications": true,
+		"exp": 1,
+		"level": 1,
+		"referal": null,
+		"misc": {
+			"farm": 0
+		},
+		"marriage": {
+			"partner": 0,
+			"requests": []
+		},
+		"platform": "vk"
+	},
+	{
+		"id": 459017224,
+		"uid": 26,
+		"balance": 100000005000,
+		"soldsazen": 0,
+		"language": "rus",
+		"balanceview": false,
+		"bank": 0,
+		"btc": 0,
+		"buttons": [
+			"👤",
+			"🆘",
+			"🛡️",
+			"🏆🌿",
+			"🏆👤",
+			"🏆🛡️"
+		],
+		"topban": false,
+		"repban": false,
+		"transban": false,
+		"breadtrans": 0,
+		"warns": 0,
+		"inClan": true,
+		"clanId": "1",
+		"profilewatch": true,
+		"admin": false,
+		"calls": 10,
+		"farm_btc": 0,
+		"rating": 0,
+		"regDate": "28.11.2019",
+		"mention": true,
+		"ban": false,
+		"timers": {
+			"bonus": true
+		},
+		"tag": "E-блан",
+		"transactions": [],
+		"notifications": true,
+		"exp": 1,
+		"level": 1,
+		"referal": null,
+		"misc": {
+			"farm": 0
+		},
+		"marriage": {
+			"partner": 0,
+			"requests": []
+		},
+		"platform": "vk"
+	},
+	{
+		"id": 522567510,
+		"uid": 27,
+		"balance": 5000,
+		"soldsazen": 0,
+		"language": "rus",
+		"balanceview": false,
+		"bank": 0,
+		"btc": 0,
+		"buttons": [
+			"👤",
+			"🆘",
+			"🛡️",
+			"🏆🌿",
+			"🏆👤",
+			"🏆🛡️"
+		],
+		"topban": false,
+		"repban": false,
+		"transban": false,
+		"breadtrans": 0,
+		"warns": 0,
+		"inClan": false,
+		"clanId": 0,
+		"profilewatch": true,
+		"admin": false,
+		"calls": 0,
+		"farm_btc": 0,
+		"rating": 1000000,
+		"regDate": "28.11.2019",
+		"mention": true,
+		"ban": false,
+		"timers": {
+			"bonus": true
+		},
+		"tag": "Anastasia_522567510",
+		"transactions": [],
+		"notifications": true,
+		"exp": 1,
+		"level": 1,
+		"referal": null,
+		"misc": {
+			"farm": 0
+		},
+		"marriage": {
+			"partner": 0,
+			"requests": []
+		},
+		"platform": "vk"
+	},
+	{
+		"id": 537327210,
+		"uid": 28,
+		"balance": 5000,
+		"soldsazen": 0,
+		"language": "rus",
+		"balanceview": false,
+		"bank": 0,
+		"btc": 0,
+		"buttons": [
+			"👤",
+			"🆘",
+			"🛡️",
+			"🏆🌿",
+			"🏆👤",
+			"🏆🛡️"
+		],
+		"topban": false,
+		"repban": false,
+		"transban": false,
+		"breadtrans": 0,
+		"warns": 0,
+		"inClan": false,
+		"clanId": 0,
+		"profilewatch": true,
+		"admin": false,
+		"calls": 0,
+		"farm_btc": 0,
+		"rating": 0,
+		"regDate": "28.11.2019",
+		"mention": true,
+		"ban": false,
+		"timers": {
+			"bonus": true
+		},
+		"tag": "Алиса_537327210",
+		"transactions": [],
+		"notifications": true,
+		"exp": 1,
+		"level": 1,
+		"referal": null,
+		"misc": {
+			"farm": 0
+		},
+		"marriage": {
+			"partner": 0,
+			"requests": []
+		},
+		"platform": "vk"
+	},
+	{
+		"id": "kustibot",
+		"uid": 29,
+		"balance": 0,
+		"soldsazen": 0,
+		"language": "rus",
+		"balanceview": false,
+		"bank": 0,
+		"btc": 0,
+		"buttons": [],
+		"topban": false,
+		"repban": false,
+		"transban": false,
+		"breadtrans": 0,
+		"warns": 0,
+		"inClan": false,
+		"clanId": 0,
+		"profilewatch": true,
+		"admin": false,
+		"calls": 0,
+		"farm_btc": 0,
+		"rating": 0,
+		"regDate": "0.0.0",
+		"mention": true,
+		"ban": false,
+		"timers": {
+			"bonus": true
+		},
+		"tag": "KustiBot",
+		"transactions": [],
+		"notifications": true,
+		"exp": 0,
+		"level": 0,
+		"referal": null,
+		"misc": {
+			"farm": 0
+		},
+		"marriage": {
+			"partner": 0,
+			"requests": []
+		},
+		"platform": "bot"
+	},
+	{
+		"id": 528594180,
+		"uid": 30,
+		"balance": 5000,
+		"soldsazen": 0,
+		"language": "rus",
+		"balanceview": false,
+		"bank": 0,
+		"btc": 0,
+		"buttons": [],
+		"topban": true,
+		"repban": true,
+		"transban": true,
+		"breadtrans": 0,
+		"warns": 0,
+		"inClan": false,
+		"clanId": 0,
+		"profilewatch": false,
+		"admin": false,
+		"calls": 0,
+		"farm_btc": 0,
+		"rating": 0,
+		"regDate": "0.0.0",
+		"mention": true,
+		"ban": false,
+		"timers": {
+			"bonus": true
+		},
+		"tag": "Yango_528594180",
+		"transactions": [],
+		"notifications": true,
+		"exp": 1,
+		"level": 1,
+		"referal": null,
+		"misc": {
+			"farm": 0
+		},
+		"marriage": {
+			"partner": 0,
+			"requests": []
+		},
+		"platform": "vk"
+	},
+	{
+		"id": 189462365,
+		"uid": 31,
+		"balance": 5000,
+		"soldsazen": 0,
+		"language": "rus",
+		"balanceview": false,
+		"bank": 0,
+		"btc": 0,
+		"buttons": [
+			"👤",
+			"🆘",
+			"🛡️",
+			"🏆🌿",
+			"🏆👤",
+			"🏆🛡️"
+		],
+		"topban": false,
+		"repban": false,
+		"transban": false,
+		"breadtrans": 0,
+		"warns": 0,
+		"inClan": false,
+		"clanId": 0,
+		"profilewatch": true,
+		"admin": false,
+		"calls": 0,
+		"farm_btc": 0,
+		"rating": 0,
+		"regDate": "29.11.2019",
+		"mention": true,
+		"ban": false,
+		"timers": {
+			"bonus": true
+		},
+		"tag": "Гоша_189462365",
+		"transactions": [],
+		"notifications": true,
+		"exp": 1,
+		"level": 1,
+		"referal": null,
+		"misc": {
+			"farm": 0
+		},
+		"marriage": {
+			"partner": 0,
+			"requests": []
+		},
+		"platform": "vk"
+	},
+	{
+		"id": 552501225,
+		"uid": 32,
+		"balance": 5000,
+		"soldsazen": 0,
+		"language": "rus",
+		"balanceview": false,
+		"bank": 0,
+		"btc": 0,
+		"buttons": [
+			"👤",
+			"🆘",
+			"🛡️",
+			"🏆🌿",
+			"🏆👤",
+			"🏆🛡️"
+		],
+		"topban": false,
+		"repban": false,
+		"transban": false,
+		"breadtrans": 0,
+		"warns": 0,
+		"inClan": false,
+		"clanId": 0,
+		"profilewatch": true,
+		"admin": false,
+		"calls": 1,
+		"farm_btc": 0,
+		"rating": 0,
+		"regDate": "30.11.2019",
+		"mention": true,
+		"ban": false,
+		"timers": {
+			"bonus": true
+		},
+		"tag": "Артём_552501225",
+		"transactions": [],
+		"notifications": true,
+		"exp": 1,
+		"level": 1,
+		"referal": null,
+		"misc": {
+			"farm": 0
+		},
+		"marriage": {
+			"partner": 0,
+			"requests": []
+		},
+		"platform": "vk"
+	},
+	{
+		"id": 552826449,
+		"uid": 33,
+		"balance": 5000,
+		"soldsazen": 0,
+		"language": "rus",
+		"balanceview": false,
+		"bank": 0,
+		"btc": 0,
+		"buttons": [
+			"👤",
+			"🆘",
+			"🛡️",
+			"🏆🌿",
+			"🏆👤",
+			"🏆🛡️"
+		],
+		"topban": false,
+		"repban": false,
+		"transban": false,
+		"breadtrans": 0,
+		"warns": 0,
+		"inClan": false,
+		"clanId": 0,
+		"profilewatch": true,
+		"admin": false,
+		"calls": 0,
+		"farm_btc": 0,
+		"rating": 0,
+		"regDate": "1.12.2019",
+		"mention": true,
+		"ban": false,
+		"timers": {
+			"bonus": true
+		},
+		"tag": "Вика_552826449",
+		"transactions": [],
+		"notifications": true,
+		"exp": 1,
+		"level": 1,
+		"referal": null,
+		"misc": {
+			"farm": 0
+		},
+		"marriage": {
+			"partner": 0,
+			"requests": []
+		},
+		"platform": "vk"
+	},
+	{
+		"id": 552826449,
+		"uid": 34,
+		"balance": 5000,
+		"soldsazen": 0,
+		"language": "rus",
+		"balanceview": false,
+		"bank": 0,
+		"btc": 0,
+		"buttons": [
+			"👤",
+			"🆘",
+			"🛡️",
+			"🏆🌿",
+			"🏆👤",
+			"🏆🛡️"
+		],
+		"topban": false,
+		"repban": false,
+		"transban": false,
+		"breadtrans": 0,
+		"warns": 0,
+		"inClan": false,
+		"clanId": 0,
+		"profilewatch": true,
+		"admin": false,
+		"calls": 0,
+		"farm_btc": 0,
+		"rating": 0,
+		"regDate": "1.12.2019",
+		"mention": true,
+		"ban": false,
+		"timers": {
+			"bonus": true
+		},
+		"tag": "Вика_552826449",
+		"transactions": [],
+		"notifications": true,
+		"exp": 1,
+		"level": 1,
+		"referal": null,
+		"misc": {
+			"farm": 0
+		},
+		"marriage": {
+			"partner": 0,
+			"requests": []
+		},
+		"platform": "vk"
+	},
+	{
+		"id": 489424562,
+		"uid": 35,
+		"balance": 5000,
+		"soldsazen": 0,
+		"language": "rus",
+		"balanceview": false,
+		"bank": 0,
+		"btc": 0,
+		"buttons": [
+			"👤",
+			"🆘",
+			"🛡️",
+			"🏆🌿",
+			"🏆👤",
+			"🏆🛡️"
+		],
+		"topban": false,
+		"repban": false,
+		"transban": false,
+		"breadtrans": 0,
+		"warns": 0,
+		"inClan": false,
+		"clanId": 0,
+		"profilewatch": true,
+		"admin": false,
+		"calls": 0,
+		"farm_btc": 0,
+		"rating": 0,
+		"regDate": "3.12.2019",
+		"mention": true,
+		"ban": false,
+		"timers": {
+			"bonus": true
+		},
+		"tag": "Микаэль_489424562",
+		"transactions": [],
+		"notifications": true,
+		"exp": 1,
+		"level": 1,
+		"referal": null,
+		"misc": {
+			"farm": 0
+		},
+		"marriage": {
+			"partner": 0,
+			"requests": []
+		},
+		"platform": "vk"
+	},
+	{
+		"id": 334713676,
+		"uid": 36,
+		"balance": 5000,
+		"soldsazen": 0,
+		"language": "rus",
+		"balanceview": false,
+		"bank": 0,
+		"btc": 0,
+		"buttons": [
+			"👤",
+			"🆘",
+			"🛡️",
+			"🏆🌿",
+			"🏆👤",
+			"🏆🛡️"
+		],
+		"topban": false,
+		"repban": false,
+		"transban": false,
+		"breadtrans": 0,
+		"warns": 0,
+		"inClan": false,
+		"clanId": 0,
+		"profilewatch": true,
+		"admin": false,
+		"calls": 0,
+		"farm_btc": 0,
+		"rating": 0,
+		"regDate": "3.12.2019",
+		"mention": true,
+		"ban": false,
+		"timers": {
+			"bonus": true
+		},
+		"tag": "Лаура_334713676",
+		"transactions": [],
+		"notifications": true,
+		"exp": 1,
+		"level": 1,
+		"referal": null,
+		"misc": {
+			"farm": 0
+		},
+		"marriage": {
+			"partner": 0,
+			"requests": []
+		},
+		"platform": "vk"
+	},
+	{
+		"id": 543107900,
+		"uid": 37,
+		"balance": 5000,
+		"soldsazen": 0,
+		"language": "rus",
+		"balanceview": false,
+		"bank": 0,
+		"btc": 0,
+		"buttons": [
+			"👤",
+			"🆘",
+			"🛡️",
+			"🏆🌿",
+			"🏆👤",
+			"🏆🛡️"
+		],
+		"topban": false,
+		"repban": false,
+		"transban": false,
+		"breadtrans": 0,
+		"warns": 0,
+		"inClan": false,
+		"clanId": 0,
+		"profilewatch": true,
+		"admin": false,
+		"calls": 0,
+		"farm_btc": 0,
+		"rating": 0,
+		"regDate": "3.12.2019",
+		"mention": true,
+		"ban": false,
+		"timers": {
+			"bonus": true
+		},
+		"tag": "Анечка_543107900",
+		"transactions": [],
+		"notifications": true,
+		"exp": 1,
+		"level": 1,
+		"referal": null,
+		"misc": {
+			"farm": 0
+		},
+		"marriage": {
+			"partner": 0,
+			"requests": []
+		},
+		"platform": "vk"
+	},
+	{
+		"id": 523413093,
+		"uid": 38,
+		"balance": 5000,
+		"soldsazen": 0,
+		"language": "rus",
+		"balanceview": false,
+		"bank": 0,
+		"btc": 0,
+		"buttons": [
+			"👤",
+			"🆘",
+			"🛡️",
+			"🏆🌿",
+			"🏆👤",
+			"🏆🛡️"
+		],
+		"topban": false,
+		"repban": false,
+		"transban": false,
+		"breadtrans": 0,
+		"warns": 0,
+		"inClan": false,
+		"clanId": 0,
+		"profilewatch": true,
+		"admin": false,
+		"calls": 0,
+		"farm_btc": 0,
+		"rating": 0,
+		"regDate": "3.12.2019",
+		"mention": true,
+		"ban": false,
+		"timers": {
+			"bonus": true
+		},
+		"tag": "Карина_523413093",
+		"transactions": [],
+		"notifications": true,
+		"exp": 1,
+		"level": 1,
+		"referal": null,
+		"misc": {
+			"farm": 0
+		},
+		"marriage": {
+			"partner": 0,
+			"requests": []
+		},
+		"platform": "vk"
+	},
+	{
+		"id": 525274491,
+		"uid": 39,
+		"balance": 5000,
+		"soldsazen": 0,
+		"language": "rus",
+		"balanceview": false,
+		"bank": 0,
+		"btc": 0,
+		"buttons": [
+			"👤",
+			"🆘",
+			"🛡️",
+			"🏆🌿",
+			"🏆👤",
+			"🏆🛡️"
+		],
+		"topban": false,
+		"repban": false,
+		"transban": false,
+		"breadtrans": 0,
+		"warns": 0,
+		"inClan": false,
+		"clanId": 0,
+		"profilewatch": true,
+		"admin": false,
+		"calls": 0,
+		"farm_btc": 0,
+		"rating": 0,
+		"regDate": "3.12.2019",
+		"mention": true,
+		"ban": false,
+		"timers": {
+			"bonus": true
+		},
+		"tag": "Кристина_525274491",
+		"transactions": [],
+		"notifications": true,
+		"exp": 1,
+		"level": 1,
+		"referal": null,
+		"misc": {
+			"farm": 0
+		},
+		"marriage": {
+			"partner": 0,
+			"requests": []
+		},
+		"platform": "vk"
+	},
+	{
+		"id": 539300802,
+		"uid": 40,
+		"balance": 5000,
+		"soldsazen": 0,
+		"language": "rus",
+		"balanceview": false,
+		"bank": 0,
+		"btc": 0,
+		"buttons": [
+			"👤",
+			"🆘",
+			"🛡️",
+			"🏆🌿",
+			"🏆👤",
+			"🏆🛡️"
+		],
+		"topban": false,
+		"repban": false,
+		"transban": false,
+		"breadtrans": 0,
+		"warns": 0,
+		"inClan": false,
+		"clanId": 0,
+		"profilewatch": true,
+		"admin": false,
+		"calls": 1,
+		"farm_btc": 0,
+		"rating": 0,
+		"regDate": "4.12.2019",
+		"mention": true,
+		"ban": false,
+		"timers": {
+			"bonus": true
+		},
+		"tag": "Пупсик",
+		"transactions": [],
+		"notifications": true,
+		"exp": 1,
+		"level": 1,
+		"referal": null,
+		"misc": {
+			"farm": 0
+		},
+		"marriage": {
+			"partner": 0,
+			"requests": []
+		},
+		"platform": "vk"
+	},
+	{
+		"id": 567646282,
+		"uid": 41,
+		"balance": 5000,
+		"soldsazen": 0,
+		"language": "rus",
+		"balanceview": false,
+		"bank": 0,
+		"btc": 0,
+		"buttons": [
+			"👤",
+			"🆘",
+			"🛡️",
+			"🏆🌿",
+			"🏆👤",
+			"🏆🛡️"
+		],
+		"topban": false,
+		"repban": false,
+		"transban": false,
+		"breadtrans": 0,
+		"warns": 0,
+		"inClan": false,
+		"clanId": 0,
+		"profilewatch": true,
+		"admin": false,
+		"calls": 0,
+		"farm_btc": 0,
+		"rating": 0,
+		"regDate": "4.12.2019",
+		"mention": true,
+		"ban": false,
+		"timers": {
+			"bonus": true
+		},
+		"tag": "Моника_567646282",
+		"transactions": [],
+		"notifications": true,
+		"exp": 1,
+		"level": 1,
+		"referal": null,
+		"misc": {
+			"farm": 0
+		},
+		"marriage": {
+			"partner": 0,
+			"requests": []
+		},
+		"platform": "vk"
+	},
+	{
+		"id": 534253397,
+		"uid": 42,
+		"balance": 5000,
+		"soldsazen": 0,
+		"language": "rus",
+		"balanceview": false,
+		"bank": 0,
+		"btc": 0,
+		"buttons": [
+			"👤",
+			"🆘",
+			"🛡️",
+			"🏆🌿",
+			"🏆👤",
+			"🏆🛡️"
+		],
+		"topban": false,
+		"repban": false,
+		"transban": false,
+		"breadtrans": 0,
+		"warns": 0,
+		"inClan": false,
+		"clanId": 0,
+		"profilewatch": true,
+		"admin": false,
+		"calls": 0,
+		"farm_btc": 0,
+		"rating": 0,
+		"regDate": "5.12.2019",
+		"mention": true,
+		"ban": false,
+		"timers": {
+			"bonus": true
+		},
+		"tag": "Илья_534253397",
+		"transactions": [],
+		"notifications": true,
+		"exp": 1,
+		"level": 1,
+		"referal": null,
+		"misc": {
+			"farm": 0
+		},
+		"marriage": {
+			"partner": 0,
+			"requests": []
+		},
+		"platform": "vk"
+	},
+	{
+		"id": 183342140,
+		"uid": 43,
+		"balance": 5000,
+		"soldsazen": 0,
+		"language": "rus",
+		"balanceview": false,
+		"bank": 0,
+		"btc": 0,
+		"buttons": [
+			"👤",
+			"🆘",
+			"🛡️",
+			"🏆🌿",
+			"🏆👤",
+			"🏆🛡️"
+		],
+		"topban": false,
+		"repban": false,
+		"transban": false,
+		"breadtrans": 0,
+		"warns": 0,
+		"inClan": false,
+		"clanId": 0,
+		"profilewatch": true,
+		"admin": false,
+		"calls": 0,
+		"farm_btc": 0,
+		"rating": 0,
+		"regDate": "5.12.2019",
+		"mention": true,
+		"ban": false,
+		"timers": {
+			"bonus": true
+		},
+		"tag": "Миха_183342140",
+		"transactions": [],
+		"notifications": true,
+		"exp": 1,
+		"level": 1,
+		"referal": null,
+		"misc": {
+			"farm": 0
+		},
+		"marriage": {
+			"partner": 0,
+			"requests": []
+		},
+		"platform": "vk"
+	},
+	{
+		"id": 480513813,
+		"uid": 44,
+		"balance": 5000,
+		"soldsazen": 0,
+		"language": "rus",
+		"balanceview": false,
+		"bank": 0,
+		"btc": 0,
+		"buttons": [
+			"👤",
+			"🆘",
+			"🛡️",
+			"🏆🌿",
+			"🏆👤",
+			"🏆🛡️"
+		],
+		"topban": false,
+		"repban": false,
+		"transban": false,
+		"breadtrans": 0,
+		"warns": 0,
+		"inClan": false,
+		"clanId": 0,
+		"profilewatch": true,
+		"admin": false,
+		"calls": 0,
+		"farm_btc": 0,
+		"rating": 0,
+		"regDate": "6.12.2019",
+		"mention": true,
+		"ban": false,
+		"timers": {
+			"bonus": true
+		},
+		"tag": "Снежана_480513813",
+		"transactions": [],
+		"notifications": true,
+		"exp": 1,
+		"level": 1,
+		"referal": null,
+		"misc": {
+			"farm": 0
+		},
+		"marriage": {
+			"partner": 0,
+			"requests": []
+		},
+		"platform": "vk"
+	},
+	{
+		"id": 565212329,
+		"uid": 45,
+		"balance": 5000,
+		"soldsazen": 0,
+		"language": "rus",
+		"balanceview": false,
+		"bank": 0,
+		"btc": 0,
+		"buttons": [
+			"👤",
+			"🆘",
+			"🛡️",
+			"🏆🌿",
+			"🏆👤",
+			"🏆🛡️"
+		],
+		"topban": false,
+		"repban": false,
+		"transban": false,
+		"breadtrans": 0,
+		"warns": 0,
+		"inClan": false,
+		"clanId": 0,
+		"profilewatch": true,
+		"admin": false,
+		"calls": 0,
+		"farm_btc": 0,
+		"rating": 0,
+		"regDate": "12.12.2019",
+		"mention": true,
+		"ban": false,
+		"timers": {
+			"bonus": true
+		},
+		"tag": "Дарья_565212329",
+		"transactions": [],
+		"notifications": true,
+		"exp": 1,
+		"level": 1,
+		"referal": null,
+		"misc": {
+			"farm": 0
+		},
+		"marriage": {
+			"partner": 0,
+			"requests": []
+		},
+		"platform": "vk"
+	},
+	{
+		"id": 565212329,
+		"uid": 46,
+		"balance": 5000,
+		"soldsazen": 0,
+		"language": "rus",
+		"balanceview": false,
+		"bank": 0,
+		"btc": 0,
+		"buttons": [
+			"👤",
+			"🆘",
+			"🛡️",
+			"🏆🌿",
+			"🏆👤",
+			"🏆🛡️"
+		],
+		"topban": false,
+		"repban": false,
+		"transban": false,
+		"breadtrans": 0,
+		"warns": 0,
+		"inClan": false,
+		"clanId": 0,
+		"profilewatch": true,
+		"admin": false,
+		"calls": 0,
+		"farm_btc": 0,
+		"rating": 0,
+		"regDate": "12.12.2019",
+		"mention": true,
+		"ban": false,
+		"timers": {
+			"bonus": true
+		},
+		"tag": "Дарья_565212329",
+		"transactions": [],
+		"notifications": true,
+		"exp": 1,
+		"level": 1,
+		"referal": null,
+		"misc": {
+			"farm": 0
+		},
+		"marriage": {
+			"partner": 0,
+			"requests": []
+		},
+		"platform": "vk"
+	},
+	{
+		"id": 489437714,
+		"uid": 47,
+		"balance": 5000,
+		"soldsazen": 0,
+		"language": "rus",
+		"balanceview": false,
+		"bank": 0,
+		"btc": 0,
+		"buttons": [
+			"👤",
+			"🆘",
+			"🛡️",
+			"🏆🌿",
+			"🏆👤",
+			"🏆🛡️"
+		],
+		"topban": false,
+		"repban": false,
+		"transban": false,
+		"breadtrans": 0,
+		"warns": 0,
+		"inClan": false,
+		"clanId": 0,
+		"profilewatch": true,
+		"admin": false,
+		"calls": 0,
+		"farm_btc": 0,
+		"rating": 0,
+		"regDate": "15.12.2019",
+		"mention": true,
+		"ban": false,
+		"timers": {
+			"bonus": true
+		},
+		"tag": "Яна_489437714",
+		"transactions": [],
+		"notifications": true,
+		"exp": 1,
+		"level": 1,
+		"referal": null,
+		"misc": {
+			"farm": 0
+		},
+		"marriage": {
+			"partner": 0,
+			"requests": []
+		},
+		"platform": "vk"
+	},
+	{
+		"id": 393579910,
+		"uid": 48,
+		"balance": 5000,
+		"soldsazen": 0,
+		"language": "rus",
+		"balanceview": false,
+		"bank": 0,
+		"btc": 0,
+		"buttons": [
+			"👤",
+			"🆘",
+			"🛡️",
+			"🏆🌿",
+			"🏆👤",
+			"🏆🛡️"
+		],
+		"topban": false,
+		"repban": false,
+		"transban": false,
+		"breadtrans": 0,
+		"warns": 0,
+		"inClan": false,
+		"clanId": 0,
+		"profilewatch": true,
+		"admin": false,
+		"calls": 0,
+		"farm_btc": 0,
+		"rating": 0,
+		"regDate": "13.1.2020",
+		"mention": true,
+		"ban": false,
+		"timers": {
+			"bonus": true
+		},
+		"tag": "Кирилл_393579910",
+		"transactions": [],
+		"notifications": true,
+		"exp": 1,
+		"level": 1,
+		"referal": null,
+		"misc": {
+			"farm": 0
+		},
+		"marriage": {
+			"partner": 0,
+			"requests": []
+		},
+		"platform": "vk"
+	},
+	{
+		"id": 417370902,
+		"uid": 49,
+		"balance": 5000,
+		"soldsazen": 0,
+		"language": "rus",
+		"balanceview": false,
+		"bank": 0,
+		"btc": 0,
+		"buttons": [
+			"👤",
+			"🆘",
+			"🛡️",
+			"🏆🌿",
+			"🏆👤",
+			"🏆🛡️"
+		],
+		"topban": false,
+		"repban": false,
+		"transactions": [],
+		"transban": false,
+		"breadtrans": 0,
+		"warns": 0,
+		"inClan": true,
+		"clanId": "1",
+		"profilewatch": true,
+		"admin": false,
+		"calls": 8,
+		"farm_btc": 0,
+		"rating": 283,
+		"regDate": "14.1.2020",
+		"mention": true,
+		"ban": false,
+		"timers": {
+			"bonus": true
+		},
+		"tag": "Giorno Giovanna",
+		"notifications": true,
+		"exp": 1,
+		"level": 1,
+		"referal": null,
+		"misc": {
+			"farm": 0
+		},
+		"marriage": {
+			"partner": 0,
+			"requests": []
+		},
+		"platform": "vk"
+	},
+	{
+		"id": 579152249,
+		"uid": 50,
+		"balance": 5000,
+		"soldsazen": 0,
+		"language": "rus",
+		"balanceview": false,
+		"bank": 0,
+		"btc": 0,
+		"buttons": [
+			"👤",
+			"🆘",
+			"🛡️",
+			"🏆🌿",
+			"🏆👤",
+			"🏆🛡️"
+		],
+		"topban": false,
+		"repban": false,
+		"transactions": [],
+		"transban": false,
+		"breadtrans": 0,
+		"warns": 0,
+		"inClan": false,
+		"clanId": 0,
+		"profilewatch": true,
+		"admin": false,
+		"calls": 2,
+		"farm_btc": 0,
+		"rating": 0,
+		"regDate": "2.2.2020",
+		"mention": true,
+		"ban": false,
+		"timers": {
+			"bonus": true
+		},
+		"tag": "Саша_579152249",
+		"notifications": true,
+		"exp": 1,
+		"level": 1,
+		"referal": null,
+		"misc": {
+			"farm": 0
+		},
+		"marriage": {
+			"partner": 0,
+			"requests": []
+		},
+		"platform": "vk"
+	},
+	{
+		"id": 518507980,
+		"uid": 51,
+		"balance": 371000005000,
+		"soldsazen": 0,
+		"language": "rus",
+		"balanceview": false,
+		"bank": 0,
+		"btc": 0,
+		"buttons": [
+			"👤",
+			"🆘",
+			"🛡️",
+			"🏆🌿",
+			"🏆👤",
+			"🏆🛡️"
+		],
+		"topban": false,
+		"repban": false,
+		"transactions": [],
+		"transban": false,
+		"breadtrans": 0,
+		"warns": 0,
+		"inClan": false,
+		"clanId": 0,
+		"profilewatch": true,
+		"admin": false,
+		"calls": 0,
+		"farm_btc": 0,
+		"rating": 0,
+		"regDate": "2.9.2020",
+		"mention": true,
+		"ban": false,
+		"timers": {
+			"bonus": true
+		},
+		"tag": "Марк_518507980",
+		"notifications": true,
+		"exp": 1,
+		"level": 1,
+		"referal": null,
+		"misc": {
+			"farm": 0
+		},
+		"marriage": {
+			"partner": 0,
+			"requests": []
+		},
+		"platform": "vk"
+	},
+	{
+		"id": 525751713,
+		"uid": 52,
+		"balance": 5000,
+		"soldsazen": 0,
+		"language": "rus",
+		"balanceview": false,
+		"bank": 0,
+		"btc": 0,
+		"buttons": [
+			"👤",
+			"🆘",
+			"🛡️",
+			"🏆🌿",
+			"🏆👤",
+			"🏆🛡️"
+		],
+		"topban": false,
+		"repban": false,
+		"transactions": [],
+		"transban": false,
+		"breadtrans": 0,
+		"warns": 0,
+		"inClan": false,
+		"clanId": 0,
+		"profilewatch": true,
+		"admin": false,
+		"calls": 0,
+		"farm_btc": 0,
+		"rating": 0,
+		"regDate": "4.9.2020",
+		"mention": true,
+		"ban": false,
+		"timers": {
+			"bonus": true
+		},
+		"tag": "Марк_525751713",
+		"notifications": true,
+		"exp": 1,
+		"level": 1,
+		"referal": null,
+		"misc": {
+			"farm": 0
+		},
+		"marriage": {
+			"partner": 0,
+			"requests": []
+		},
+		"platform": "vk"
+	}
+]

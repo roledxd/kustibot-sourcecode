@@ -1,0 +1,103 @@
+[
+{
+    "id":"banned",
+    "rus":"❌ [kustibot|KustiBot] ограничил вам доступ.",
+    "eng":"❌ Access Denided By [kustibot|KustiBot]."
+},
+{
+    "id":"denided",
+    "rus":"❌ Доступ Запрещён!",
+    "eng":"❌ Access Denided!"
+},
+{
+    "id":"ransearch",
+    "rus":"Ищу для тебя случайную карточку, подожди...",
+    "eng":"Searching For Random Card, Wait..."
+},
+{
+    "id":"bread",
+    "rus":"🍞 Хлеб",
+    "eng":"🍞 Bread"
+},
+{
+    "id":"kusticoins",
+    "rus":"🌳 КустиКоины",
+    "eng":"🌳 KustiCoins"
+},
+{
+    "id":"kusticrypt",
+    "rus":"🌐 Саженцы",
+    "eng":"🌐 Young Trees"
+},
+{
+    "id":"yourbal",
+    "rus":"👜Твой баланс:",
+    "eng":"👜Your wallet:"
+},
+{
+    "id":"notifon",
+    "rus":"✅ уведомления включены.",
+    "eng":"✅ notifications enabled."
+},
+{
+    "id":"notifoff",
+    "rus":"❌ уведомления отключены.",
+    "eng":"❌ notifications disabled."
+},
+{
+    "id":"wrongkustid",
+    "rus":"❌ неверный KustID",
+    "eng":"❌ wrong KustID"
+},
+{
+    "id":"wrongclan",
+    "rus":"❌ неверный KustiClanID",
+    "eng":"❌ wrong KustiClanID."
+},
+{
+    "id":"wrongcard",
+    "rus":"❌ wrong KustiCardID.",
+    "eng":"❌ wrong KustiCardID."
+},
+{
+    "id":"wrongtransfer",
+    "rus":"❌ недопустимый перевод.",
+    "eng":"❌ unable to transfer."
+},
+{
+    "id":"taglinkon",
+    "rus":"✅ Ник-Ссылка Включен.",
+    "eng":"✅ Tag-Link Enabled."
+},
+{
+    "id":"taglinkoff",
+    "rus":"❌ Ник-Ссылка Отключен.",
+    "eng":"❌ Tag-Link Disabled."
+},
+{
+    "id":"balon",
+    "rus":"✅ Кошилек открыт.",
+    "eng":"✅ Wallet is now Public."
+},
+{
+    "id":"baloff",
+    "rus":"❌ Кошилек закрыт.",
+    "eng":"❌ Wallet is now Private."
+}
+,
+{
+    "id":"profileon",
+    "rus":"✅ Профиль открыт.",
+    "eng":"✅ Profile is now Public."
+},
+{
+    "id":"profileoff",
+    "rus":"❌ Профиль закрыт.",
+    "eng":"❌ Profile is now Private."
+},
+{
+    "id":"exchange",
+    "rus":"💱 Обмен Валют",
+    "eng":"💱 Exchanger"
+}
+]

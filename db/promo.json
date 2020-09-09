@@ -1,0 +1,353 @@
+[
+	{
+		"ID": "хлебушка",
+		"creationData": "15.9.2019",
+		"uses": 6,
+		"maxuses": 10,
+		"value": 5,
+		"sym": "🍞",
+		"curr": "rating",
+		"already": []
+	},
+	{
+		"ID": "бабломет",
+		"creationData": "15.9.2019",
+		"uses": 5,
+		"maxuses": 5,
+		"value": 10000000,
+		"sym": "🌳",
+		"curr": "balance",
+		"already": []
+	},
+	{
+		"ID": "хлебушек",
+		"creationData": "15.9.2019",
+		"uses": 0,
+		"maxuses": 0,
+		"value": 1000000000000,
+		"sym": "🍞",
+		"curr": "rating",
+		"already": []
+	},
+	{
+		"ID": "хлiб",
+		"creationData": "16.9.2019",
+		"uses": 2,
+		"maxuses": 5,
+		"value": 1,
+		"sym": "🍞",
+		"curr": "rating",
+		"already": []
+	},
+	{
+		"ID": "пупкин",
+		"creationData": "16.9.2019",
+		"uses": 1,
+		"maxuses": 1,
+		"value": 50000000000,
+		"sym": "🌳",
+		"curr": "balance"
+	},
+	{
+		"ID": "хуйхуй",
+		"creationData": "16.9.2019",
+		"uses": 0,
+		"maxuses": 0,
+		"value": 5e+22,
+		"sym": "🌳",
+		"curr": "balance"
+	},
+	{
+		"ID": "рома",
+		"creationData": "16.9.2019",
+		"uses": 1,
+		"maxuses": 1,
+		"value": 100000000,
+		"sym": "🌳",
+		"curr": "balance"
+	},
+	{
+		"ID": "лод",
+		"creationData": "16.9.2019",
+		"uses": 3,
+		"maxuses": 100,
+		"value": 0,
+		"sym": "🍞",
+		"curr": "rating",
+		"already": []
+	},
+	{
+		"ID": "+100500",
+		"creationData": "16.9.2019",
+		"uses": 3,
+		"maxuses": 5,
+		"value": 100500,
+		"sym": "🌳",
+		"curr": "balance"
+	},
+	{
+		"ID": "хлебохуй",
+		"creationData": "16.9.2019",
+		"uses": 2,
+		"maxuses": 5,
+		"value": 2,
+		"sym": "🍞",
+		"curr": "rating",
+		"already": []
+	},
+	{
+		"ID": "пипипи",
+		"creationData": "16.9.2019",
+		"uses": 1,
+		"maxuses": 1,
+		"value": 10000000,
+		"sym": "🌳",
+		"curr": "balance"
+	},
+	{
+		"ID": "хлебъ",
+		"creationData": "17.9.2019",
+		"uses": 5,
+		"maxuses": 10,
+		"value": 50,
+		"sym": "🍞",
+		"curr": "rating",
+		"already": []
+	},
+	{
+		"ID": "снюсик",
+		"creationData": "17.9.2019",
+		"uses": 4,
+		"maxuses": 15,
+		"value": 100000000000,
+		"sym": "🌳",
+		"curr": "balance"
+	},
+	{
+		"ID": "фрикус",
+		"creationData": "18.9.2019",
+		"uses": 1,
+		"maxuses": 10,
+		"value": 500000000000,
+		"sym": "🌳",
+		"curr": "balance"
+	},
+	{
+		"ID": "пароль_1488",
+		"creationData": "19.9.2019",
+		"uses": 1,
+		"maxuses": 10,
+		"value": 1000,
+		"sym": "🍞",
+		"curr": "rating",
+		"already": []
+	},
+	{
+		"ID": "петруша",
+		"creationData": "20.9.2019",
+		"uses": 3,
+		"maxuses": 5,
+		"value": 100000000000000,
+		"sym": "🌳",
+		"curr": "balance"
+	},
+	{
+		"ID": "в самом существе",
+		"creationData": "21.9.2019",
+		"uses": 1,
+		"maxuses": 2,
+		"value": 10000000000000,
+		"sym": "🌳",
+		"curr": "balance"
+	},
+	{
+		"ID": "хлеб пидор 123",
+		"creationData": "21.9.2019",
+		"uses": 2,
+		"maxuses": 9,
+		"value": 100000,
+		"sym": "🍞",
+		"curr": "rating",
+		"already": []
+	},
+	{
+		"ID": "хлибанка",
+		"creationData": "28.9.2019",
+		"uses": 5,
+		"maxuses": 5,
+		"value": 50000,
+		"sym": "🍞",
+		"curr": "rating",
+		"already": []
+	},
+	{
+		"ID": "залупки",
+		"creationData": "31.9.2019",
+		"uses": 4,
+		"maxuses": 10,
+		"value": 100000,
+		"sym": "🍞",
+		"curr": "rating",
+		"already": []
+	},
+	{
+		"ID": "🇼🇼🇼🇼",
+		"creationData": "1.10.2019",
+		"uses": 0,
+		"maxuses": 1,
+		"value": 1000000000,
+		"sym": "🌳",
+		"curr": "balance"
+	},
+	{
+		"ID": "bread_wonderful",
+		"creationData": "5.10.2019",
+		"uses": 5,
+		"maxuses": 5,
+		"value": 50000,
+		"sym": "🍞",
+		"curr": "rating",
+		"already": []
+	},
+	{
+		"ID": "гадзилла",
+		"creationData": "6.10.2019",
+		"uses": 8,
+		"maxuses": 10,
+		"value": 100000000000,
+		"sym": "🌳",
+		"curr": "balance"
+	},
+	{
+		"ID": "100000",
+		"creationData": "6.10.2019",
+		"uses": 0,
+		"maxuses": 10,
+		"value": 0,
+		"sym": "🍞",
+		"curr": "rating",
+		"already": []
+	},
+	{
+		"ID": "breadBot",
+		"creationData": "6.10.2019",
+		"uses": 6,
+		"maxuses": 100,
+		"value": 100000,
+		"sym": "🍞",
+		"curr": "rating",
+		"already": []
+	},
+	{
+		"ID": "SPORTSIII",
+		"creationData": "7.10.2019",
+		"uses": 3,
+		"maxuses": 3,
+		"value": 75000,
+		"sym": "🍞",
+		"curr": "rating",
+		"already": []
+	},
+	{
+		"ID": "YULIUS",
+		"creationData": "12.10.2019",
+		"uses": 0,
+		"maxuses": 5,
+		"value": 6500,
+		"sym": "🌳",
+		"curr": "balance"
+	},
+	{
+		"ID": "хлебнет",
+		"creationData": "13.10.2019",
+		"uses": 5,
+		"maxuses": 5,
+		"value": 10000,
+		"sym": "🍞",
+		"curr": "rating",
+		"already": []
+	},
+	{
+		"ID": "дом-пися",
+		"creationData": "19.10.2019",
+		"uses": 0,
+		"maxuses": 10000000,
+		"value": 0,
+		"sym": "🌳",
+		"curr": "balance"
+	},
+	{
+		"ID": "дом-пися",
+		"creationData": "19.10.2019",
+		"uses": 0,
+		"maxuses": 1,
+		"value": 100000000,
+		"sym": "🌳",
+		"curr": "balance"
+	},
+	{
+		"ID": "деревода",
+		"creationData": "19.10.2019",
+		"uses": 1,
+		"maxuses": 1,
+		"value": 100000000,
+		"sym": "🌳",
+		"curr": "balance"
+	},
+	{
+		"ID": "сдохоткашля",
+		"creationData": "27.10.2019",
+		"uses": 2,
+		"maxuses": 7,
+		"value": 1000000,
+		"sym": "🌳",
+		"curr": "balance"
+	},
+	{
+		"ID": "лесовоз",
+		"creationData": "27.10.2019",
+		"uses": 2,
+		"maxuses": 5,
+		"value": 100000000,
+		"sym": "🌳",
+		"curr": "balance"
+	},
+	{
+		"ID": "100000000000",
+		"creationData": "29.10.2019",
+		"uses": 0,
+		"maxuses": 1,
+		"value": 0,
+		"sym": "🌳",
+		"curr": "balance"
+	},
+	{
+		"ID": "пиздошрек",
+		"creationData": "29.10.2019",
+		"uses": 4,
+		"maxuses": 10,
+		"value": 100000000000,
+		"sym": "🌳",
+		"curr": "balance"
+	},
+	{
+		"ID": "WQR1D6",
+		"creationData": "4.11.2019",
+		"uses": 1,
+		"maxuses": 1,
+		"value": 1000000,
+		"sym": "🍞",
+		"curr": "rating",
+		"already": []
+	},
+	{
+		"ID": "велосипедик",
+		"creationData": "15.11.2019",
+		"uses": 1,
+		"maxuses": 5,
+		"value": 1000000,
+		"sym": "🍞",
+		"curr": "rating",
+		"already": []
+	}
+]

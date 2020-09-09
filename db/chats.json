@@ -1,0 +1,21 @@
+[
+	{
+		"id": 0,
+		"chatId": 1,
+		"messages": 2094,
+		"name": {},
+		"admin": null
+	},
+	{
+		"id": 1,
+		"chatId": 5,
+		"messages": 400,
+		"admin": null
+	},
+	{
+		"id": 2,
+		"chatId": 6,
+		"messages": 0,
+		"admin": null
+	}
+]

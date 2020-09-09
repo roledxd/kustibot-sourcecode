@@ -1,0 +1,52 @@
+[
+	{
+		"id": 0,
+		"name": "clans",
+		"count": 3
+	},
+	{
+		"id": 1,
+		"name": "messages",
+		"count": 14802
+	},
+	{
+		"id": 2,
+		"name": "users",
+		"count": 52
+	},
+	{
+		"id": 3,
+		"name": "startTime",
+		"count": "11:24:38"
+	},
+	{
+		"id": 4,
+		"name": "startDate",
+		"count": "5.9.2020"
+	},
+	{
+		"id": 5,
+		"name": "s",
+		"count": 6
+	},
+	{
+		"id": 6,
+		"name": "s",
+		"count": 749000100000
+	},
+	{
+		"id": 7,
+		"name": "s",
+		"count": 250353
+	},
+	{
+		"id": 8,
+		"name": "coinsTransfered",
+		"count": 3
+	},
+	{
+		"id": 9,
+		"name": "breadTransfered",
+		"count": 3
+	}
+]

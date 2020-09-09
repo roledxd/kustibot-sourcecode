@@ -1,0 +1,667 @@
+[
+	{
+		"code": "создать_388871250",
+		"userUid": 0,
+		"originalCode": " создать",
+		"activationDate": "15.9.2019",
+		"activationTime": "17:20:15:994"
+	},
+	{
+		"code": "хлебдлявсех_388871250",
+		"userUid": 0,
+		"originalCode": "хлебдлявсех",
+		"activationDate": "15.9.2019",
+		"activationTime": "17:22:4:657"
+	},
+	{
+		"code": "хлебдлявсех_560589383",
+		"userUid": 5,
+		"originalCode": "хлебдлявсех",
+		"activationDate": "15.9.2019",
+		"activationTime": "17:23:30:464"
+	},
+	{
+		"code": "дед_400853719",
+		"userUid": 3,
+		"originalCode": "дед",
+		"activationDate": "15.9.2019",
+		"activationTime": "17:33:0:860"
+	},
+	{
+		"code": "дед_388871250",
+		"userUid": 0,
+		"originalCode": "дед",
+		"activationDate": "15.9.2019",
+		"activationTime": "17:46:25"
+	},
+	{
+		"code": "саске_388871250",
+		"originalCode": "саске",
+		"userUid": 0,
+		"activationDate": "15.9.2019",
+		"activationTime": "17:51:51"
+	},
+	{
+		"code": "саскеч_388871250",
+		"originalCode": "саскеч",
+		"userUid": 0,
+		"activationDate": "15.10.2019",
+		"activationTime": "17:54:8"
+	},
+	{
+		"code": "хлебушка_388871250",
+		"originalCode": "хлебушка",
+		"userUid": 0,
+		"activationDate": "15.10.2019",
+		"activationTime": "18:0"
+	},
+	{
+		"code": "хлебушка_558150043",
+		"originalCode": "хлебушка",
+		"userUid": 9,
+		"activationDate": "15.10.2019",
+		"activationTime": "18:0"
+	},
+	{
+		"code": "хлебушка_338991481",
+		"originalCode": "хлебушка",
+		"userUid": 4,
+		"activationDate": "15.10.2019",
+		"activationTime": "18:1"
+	},
+	{
+		"code": "хлебушка_400853719",
+		"originalCode": "хлебушка",
+		"userUid": 3,
+		"activationDate": "15.10.2019",
+		"activationTime": "18:1"
+	},
+	{
+		"code": "хлебушка_453556498",
+		"originalCode": "хлебушка",
+		"userUid": 8,
+		"activationDate": "15.10.2019",
+		"activationTime": "18:1"
+	},
+	{
+		"code": "бабломет_558150043",
+		"originalCode": "бабломет",
+		"userUid": 9,
+		"activationDate": "15.10.2019",
+		"activationTime": "18:5"
+	},
+	{
+		"code": "бабломет_453556498",
+		"originalCode": "бабломет",
+		"userUid": 8,
+		"activationDate": "15.10.2019",
+		"activationTime": "18:5"
+	},
+	{
+		"code": "бабломет_400853719",
+		"originalCode": "бабломет",
+		"userUid": 3,
+		"activationDate": "15.10.2019",
+		"activationTime": "18:5"
+	},
+	{
+		"code": "бабломет_388871250",
+		"originalCode": "бабломет",
+		"userUid": 0,
+		"activationDate": "15.10.2019",
+		"activationTime": "18:5"
+	},
+	{
+		"code": "хлiб_388871250",
+		"originalCode": "хлiб",
+		"userUid": 0,
+		"activationDate": "16.10.2019",
+		"activationTime": "6:57"
+	},
+	{
+		"code": "пупкин_322844010",
+		"originalCode": "пупкин",
+		"userUid": 2,
+		"activationDate": "16.10.2019",
+		"activationTime": "8:57"
+	},
+	{
+		"code": "рома_322844010",
+		"originalCode": "рома",
+		"userUid": 2,
+		"activationDate": "16.10.2019",
+		"activationTime": "8:58"
+	},
+	{
+		"code": "лод_322844010",
+		"originalCode": "лод",
+		"userUid": 2,
+		"activationDate": "16.10.2019",
+		"activationTime": "11:46"
+	},
+	{
+		"code": "лод_558150043",
+		"originalCode": "лод",
+		"userUid": 9,
+		"activationDate": "16.10.2019",
+		"activationTime": "11:46"
+	},
+	{
+		"code": "+100500_388871250",
+		"originalCode": "+100500",
+		"userUid": 0,
+		"activationDate": "16.10.2019",
+		"activationTime": "14:40"
+	},
+	{
+		"code": "+100500_453556498",
+		"originalCode": "+100500",
+		"userUid": 8,
+		"activationDate": "16.10.2019",
+		"activationTime": "14:41"
+	},
+	{
+		"code": "хлебохуй_388871250",
+		"originalCode": "хлебохуй",
+		"userUid": 0,
+		"activationDate": "16.10.2019",
+		"activationTime": "14:54"
+	},
+	{
+		"code": "бабломет_565994061",
+		"originalCode": "бабломет",
+		"userUid": 11,
+		"activationDate": "16.10.2019",
+		"activationTime": "16:45"
+	},
+	{
+		"code": "хлебохуй_565994061",
+		"originalCode": "хлебохуй",
+		"userUid": 11,
+		"activationDate": "16.10.2019",
+		"activationTime": "16:50"
+	},
+	{
+		"code": "+100500_565994061",
+		"originalCode": "+100500",
+		"userUid": 11,
+		"activationDate": "16.10.2019",
+		"activationTime": "16:52"
+	},
+	{
+		"code": "лод_565994061",
+		"originalCode": "лод",
+		"userUid": 11,
+		"activationDate": "16.10.2019",
+		"activationTime": "16:52"
+	},
+	{
+		"code": "хлебушка_565994061",
+		"originalCode": "хлебушка",
+		"userUid": 11,
+		"activationDate": "16.10.2019",
+		"activationTime": "16:54"
+	},
+	{
+		"code": "хлiб_565994061",
+		"originalCode": "хлiб",
+		"userUid": 11,
+		"activationDate": "16.10.2019",
+		"activationTime": "16:54"
+	},
+	{
+		"code": "пипипи_565994061",
+		"originalCode": "пипипи",
+		"userUid": 11,
+		"activationDate": "16.10.2019",
+		"activationTime": "16:58"
+	},
+	{
+		"code": "хлебъ_388871250",
+		"originalCode": "хлебъ",
+		"userUid": 0,
+		"activationDate": "17.10.2019",
+		"activationTime": "8:27"
+	},
+	{
+		"code": "хлебъ_322844010",
+		"originalCode": "хлебъ",
+		"userUid": 2,
+		"activationDate": "17.10.2019",
+		"activationTime": "8:27"
+	},
+	{
+		"code": "хлебъ_524218646",
+		"originalCode": "хлебъ",
+		"userUid": 1,
+		"activationDate": "17.10.2019",
+		"activationTime": "8:27"
+	},
+	{
+		"code": "хлебъ_400853719",
+		"originalCode": "хлебъ",
+		"userUid": 3,
+		"activationDate": "17.10.2019",
+		"activationTime": "8:29"
+	},
+	{
+		"code": "хлебъ_453556498",
+		"originalCode": "хлебъ",
+		"userUid": 8,
+		"activationDate": "17.10.2019",
+		"activationTime": "14:57"
+	},
+	{
+		"code": "снюсик_565994061",
+		"originalCode": "снюсик",
+		"userUid": 11,
+		"activationDate": "17.10.2019",
+		"activationTime": "20:43"
+	},
+	{
+		"code": "снюсик_388871250",
+		"originalCode": "снюсик",
+		"userUid": 0,
+		"activationDate": "17.10.2019",
+		"activationTime": "21:13"
+	},
+	{
+		"code": "снюсик_42660844",
+		"originalCode": "снюсик",
+		"userUid": 12,
+		"activationDate": "17.10.2019",
+		"activationTime": "21:54"
+	},
+	{
+		"code": "снюсик_400853719",
+		"originalCode": "снюсик",
+		"userUid": 3,
+		"activationDate": "18.10.2019",
+		"activationTime": "12:41"
+	},
+	{
+		"code": "фрикус_388871250",
+		"originalCode": "фрикус",
+		"userUid": 0,
+		"activationDate": "18.10.2019",
+		"activationTime": "12:55"
+	},
+	{
+		"code": "пароль_1488_388871250",
+		"originalCode": "пароль_1488",
+		"userUid": 0,
+		"activationDate": "19.10.2019",
+		"activationTime": "14:59"
+	},
+	{
+		"code": "петруша_388871250",
+		"originalCode": "петруша",
+		"userUid": 0,
+		"activationDate": "20.10.2019",
+		"activationTime": "18:2"
+	},
+	{
+		"code": "петруша_322844010",
+		"originalCode": "петруша",
+		"userUid": 2,
+		"activationDate": "20.10.2019",
+		"activationTime": "18:3"
+	},
+	{
+		"code": "петруша_400853719",
+		"originalCode": "петруша",
+		"userUid": 3,
+		"activationDate": "20.10.2019",
+		"activationTime": "18:3"
+	},
+	{
+		"code": "в самом существе_388871250",
+		"originalCode": "в самом существе",
+		"userUid": 0,
+		"activationDate": "21.10.2019",
+		"activationTime": "13:41"
+	},
+	{
+		"code": "хлеб пидор 123_388871250",
+		"originalCode": "хлеб пидор 123",
+		"userUid": 0,
+		"activationDate": "21.10.2019",
+		"activationTime": "19:21"
+	},
+	{
+		"code": "хлеб пидор 123_322844010",
+		"originalCode": "хлеб пидор 123",
+		"userUid": 2,
+		"activationDate": "21.10.2019",
+		"activationTime": "19:53"
+	},
+	{
+		"code": "хлибанка_388871250",
+		"originalCode": "хлибанка",
+		"userUid": 0,
+		"activationDate": "28.10.2019",
+		"activationTime": "14:37"
+	},
+	{
+		"code": "хлибанка_338991481",
+		"originalCode": "хлибанка",
+		"userUid": 4,
+		"activationDate": "28.10.2019",
+		"activationTime": "14:37"
+	},
+	{
+		"code": "хлибанка_453556498",
+		"originalCode": "хлибанка",
+		"userUid": 8,
+		"activationDate": "28.10.2019",
+		"activationTime": "14:38"
+	},
+	{
+		"code": "хлибанка_400853719",
+		"originalCode": "хлибанка",
+		"userUid": 3,
+		"activationDate": "28.10.2019",
+		"activationTime": "16:5"
+	},
+	{
+		"code": "хлибанка_524218646",
+		"originalCode": "хлибанка",
+		"userUid": 1,
+		"activationDate": "28.10.2019",
+		"activationTime": "17:58"
+	},
+	{
+		"code": "залупки_322844010",
+		"originalCode": "залупки",
+		"userUid": 2,
+		"activationDate": "31.10.2019",
+		"activationTime": "13:38"
+	},
+	{
+		"code": "залупки_558150043",
+		"originalCode": "залупки",
+		"userUid": 9,
+		"activationDate": "31.10.2019",
+		"activationTime": "13:45"
+	},
+	{
+		"code": "залупки_388871250",
+		"originalCode": "залупки",
+		"userUid": 0,
+		"activationDate": "31.10.2019",
+		"activationTime": "14:8"
+	},
+	{
+		"code": "залупки_524218646",
+		"originalCode": "залупки",
+		"userUid": 1,
+		"activationDate": "31.10.2019",
+		"activationTime": "14:18"
+	},
+	{
+		"code": "bread_wonderful_558150043",
+		"originalCode": "bread_wonderful",
+		"userUid": 9,
+		"activationDate": "5.11.2019",
+		"activationTime": "22:2"
+	},
+	{
+		"code": "bread_wonderful_524218646",
+		"originalCode": "bread_wonderful",
+		"userUid": 1,
+		"activationDate": "5.11.2019",
+		"activationTime": "22:3"
+	},
+	{
+		"code": "bread_wonderful_453556498",
+		"originalCode": "bread_wonderful",
+		"userUid": 8,
+		"activationDate": "5.11.2019",
+		"activationTime": "22:19"
+	},
+	{
+		"code": "bread_wonderful_338991481",
+		"originalCode": "bread_wonderful",
+		"userUid": 4,
+		"activationDate": "5.11.2019",
+		"activationTime": "22:22"
+	},
+	{
+		"code": "bread_wonderful_388871250",
+		"originalCode": "bread_wonderful",
+		"userUid": 0,
+		"activationDate": "6.11.2019",
+		"activationTime": "6:59"
+	},
+	{
+		"code": "гадзилла_320413949",
+		"originalCode": "гадзилла",
+		"userUid": 15,
+		"activationDate": "6.11.2019",
+		"activationTime": "7:2"
+	},
+	{
+		"code": "гадзилла_524218646",
+		"originalCode": "гадзилла",
+		"userUid": 1,
+		"activationDate": "6.11.2019",
+		"activationTime": "7:20"
+	},
+	{
+		"code": "гадзилла_42660844",
+		"originalCode": "гадзилла",
+		"userUid": 12,
+		"activationDate": "6.11.2019",
+		"activationTime": "7:35"
+	},
+	{
+		"code": "breadBot_42660844",
+		"originalCode": "breadBot",
+		"userUid": 12,
+		"activationDate": "6.11.2019",
+		"activationTime": "7:36"
+	},
+	{
+		"code": "breadBot_400853719",
+		"originalCode": "breadBot",
+		"userUid": 3,
+		"activationDate": "6.11.2019",
+		"activationTime": "8:19"
+	},
+	{
+		"code": "гадзилла_400853719",
+		"originalCode": "гадзилла",
+		"userUid": 3,
+		"activationDate": "6.11.2019",
+		"activationTime": "8:20"
+	},
+	{
+		"code": "гадзилла_338991481",
+		"originalCode": "гадзилла",
+		"userUid": 4,
+		"activationDate": "6.11.2019",
+		"activationTime": "8:20"
+	},
+	{
+		"code": "гадзилла_453556498",
+		"originalCode": "гадзилла",
+		"userUid": 8,
+		"activationDate": "6.11.2019",
+		"activationTime": "9:2"
+	},
+	{
+		"code": "гадзилла_322844010",
+		"originalCode": "гадзилла",
+		"userUid": 2,
+		"activationDate": "6.11.2019",
+		"activationTime": "12:3"
+	},
+	{
+		"code": "гадзилла_558150043",
+		"originalCode": "гадзилла",
+		"userUid": 9,
+		"activationDate": "6.11.2019",
+		"activationTime": "12:28"
+	},
+	{
+		"code": "SPORTSIII_524218646",
+		"originalCode": "SPORTSIII",
+		"userUid": 1,
+		"activationDate": "7.11.2019",
+		"activationTime": "14:32"
+	},
+	{
+		"code": "SPORTSIII_453556498",
+		"originalCode": "SPORTSIII",
+		"userUid": 8,
+		"activationDate": "7.11.2019",
+		"activationTime": "14:33"
+	},
+	{
+		"code": "SPORTSIII_400853719",
+		"originalCode": "SPORTSIII",
+		"userUid": 3,
+		"activationDate": "7.11.2019",
+		"activationTime": "14:34"
+	},
+	{
+		"code": "breadBot_524218646",
+		"originalCode": "breadBot",
+		"userUid": 1,
+		"activationDate": "7.11.2019",
+		"activationTime": "14:40"
+	},
+	{
+		"code": "breadBot_453556498",
+		"originalCode": "breadBot",
+		"userUid": 8,
+		"activationDate": "7.11.2019",
+		"activationTime": "16:58"
+	},
+	{
+		"code": "breadBot_558150043",
+		"originalCode": "breadBot",
+		"userUid": 9,
+		"activationDate": "7.11.2019",
+		"activationTime": "17:19"
+	},
+	{
+		"code": "хлебнет_558150043",
+		"originalCode": "хлебнет",
+		"userUid": 9,
+		"activationDate": "13.11.2019",
+		"activationTime": "14:42"
+	},
+	{
+		"code": "хлебнет_272504695",
+		"originalCode": "хлебнет",
+		"userUid": 14,
+		"activationDate": "13.11.2019",
+		"activationTime": "14:42"
+	},
+	{
+		"code": "хлебнет_322844010",
+		"originalCode": "хлебнет",
+		"userUid": 2,
+		"activationDate": "13.11.2019",
+		"activationTime": "14:42"
+	},
+	{
+		"code": "хлебнет_565994061",
+		"originalCode": "хлебнет",
+		"userUid": 11,
+		"activationDate": "13.11.2019",
+		"activationTime": "15:5"
+	},
+	{
+		"code": "хлебнет_524218646",
+		"originalCode": "хлебнет",
+		"userUid": 1,
+		"activationDate": "13.11.2019",
+		"activationTime": "15:22"
+	},
+	{
+		"code": "breadBot_320413949",
+		"originalCode": "breadBot",
+		"userUid": 15,
+		"activationDate": "13.11.2019",
+		"activationTime": "17:5"
+	},
+	{
+		"code": "деревода_542923769",
+		"originalCode": "деревода",
+		"userUid": 17,
+		"activationDate": "19.11.2019",
+		"activationTime": "19:22"
+	},
+	{
+		"code": "сдохоткашля_388871250",
+		"originalCode": "сдохоткашля",
+		"userUid": 0,
+		"activationDate": "27.11.2019",
+		"activationTime": "14:35"
+	},
+	{
+		"code": "сдохоткашля_453556498",
+		"originalCode": "сдохоткашля",
+		"userUid": 8,
+		"activationDate": "27.11.2019",
+		"activationTime": "14:40"
+	},
+	{
+		"code": "лесовоз_453556498",
+		"originalCode": "лесовоз",
+		"userUid": 8,
+		"activationDate": "27.11.2019",
+		"activationTime": "22:31"
+	},
+	{
+		"code": "лесовоз_400853719",
+		"originalCode": "лесовоз",
+		"userUid": 3,
+		"activationDate": "27.11.2019",
+		"activationTime": "22:31"
+	},
+	{
+		"code": "пиздошрек_388871250",
+		"originalCode": "пиздошрек",
+		"userUid": 0,
+		"activationDate": "29.11.2019",
+		"activationTime": "15:5"
+	},
+	{
+		"code": "пиздошрек_459017224",
+		"originalCode": "пиздошрек",
+		"userUid": 26,
+		"activationDate": "29.11.2019",
+		"activationTime": "15:5"
+	},
+	{
+		"code": "пиздошрек_524218646",
+		"originalCode": "пиздошрек",
+		"userUid": 1,
+		"activationDate": "29.11.2019",
+		"activationTime": "15:56"
+	},
+	{
+		"code": "wqr1d6_322844010",
+		"originalCode": "WQR1D6",
+		"userUid": 2,
+		"activationDate": "4.12.2019",
+		"activationTime": "9:27"
+	},
+	{
+		"code": "пиздошрек_558150043",
+		"originalCode": "пиздошрек",
+		"userUid": 9,
+		"activationDate": "5.12.2019",
+		"activationTime": "19:11"
+	},
+	{
+		"code": "велосипедик_388871250",
+		"originalCode": "велосипедик",
+		"userUid": 0,
+		"activationDate": "15.12.2019",
+		"activationTime": "16:18"
+	}
+]

@@ -1,0 +1,64 @@
+[
+	{
+		"clanId": 0,
+		"admin": 15,
+		"creationDate": "5.10.2019",
+		"bread": 100000,
+		"level": 1,
+		"exp": 0,
+		"needexp": 100,
+		"title": "Незабудки",
+		"desc": "для пидорасок",
+		"memberval": 2,
+		"maxMembers": 15,
+		"rules": "отпидорашивать всех, кого видишь!",
+		"admins": [
+			15
+		],
+		"members": []
+	},
+	{
+		"clanId": 1,
+		"admin": 0,
+		"creationDate": "07.11.2019",
+		"bread": 13450,
+		"level": 1,
+		"exp": 0,
+		"needexp": 100,
+		"title": "Пиздожмых",
+		"desc": "Для Классических Долбоебов",
+		"memberval": 4,
+		"maxMembers": 15,
+		"rules": ":0 я видел нефть в конце тоннеля",
+		"admins": [
+			0
+		],
+		"members": [
+			2,
+			3,
+			8,
+			9,
+			26,
+			49,
+			4
+		]
+	},
+	{
+		"clanId": 2,
+		"admin": 12,
+		"creationDate": "19.10.2019",
+		"bread": 0,
+		"level": 1,
+		"exp": 0,
+		"needexp": 100,
+		"title": "⛔АнтиАдмин⛔",
+		"desc": "описание не задано.",
+		"memberval": 1,
+		"maxMembers": 15,
+		"rules": "правила не заданы.",
+		"admins": [
+			12
+		],
+		"members": []
+	}
+]
